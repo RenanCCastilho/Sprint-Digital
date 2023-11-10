@@ -1,7 +1,10 @@
-# Sprint 3 Digital Business Enablement 
-## Código fonte esta no arquivo "EasyPlan"
-### Vídeo apresentação da aplicação: 
+# Plan It
+## Integrantes:
+    93451 - Felipe Cardenaz de Melo
+    94489 - Raphael Rezende Silveira Junior
+    94394 - Renan Castilho Costa
+    92979 - Ricardo dos Santos Altavista
 
-Back-end: https://youtu.be/sA5AOpRxUI4
+## Link vídeo mostrando a aplicação e suas funcionalidades:
 
-Front-end: https://www.youtube.com/watch?v=MQwRSu7aroA
+https://www.youtube.com/watch?v=MQwRSu7aroA
