@@ -1,4 +1,4 @@
-# Plan It
+# Find It
 ## Integrantes:
     93451 - Felipe Cardenaz de Melo
     94489 - Raphael Rezende Silveira Junior
